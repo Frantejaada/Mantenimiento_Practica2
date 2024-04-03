@@ -1,5 +1,5 @@
 package org.mps.deque;
-
+//Hecho por Francisco Javier Tejada Martín
 /**
  * Class representing a node of a double-ended queue (deque). Each node has references to
  * the next and previous nodes.

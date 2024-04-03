@@ -5,15 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b98bb54f-25d2-46a7-9e8a-8ac0f142dc10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/mps/deque/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mps/deque/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/mps/deque/DoubleLinkedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mps/deque/DoubleLinkedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/mps/deque/DoubleLinkedQueueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mps/deque/DoubleLinkedQueueException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/mps/deque/LinkedNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mps/deque/LinkedNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/mps/deque/DoubleLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/mps/deque/DoubleLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/mps/deque/NodeLinkedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/mps/deque/NodeLinkedTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,14 +45,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="JUnit.All in mockito-mps-uma">
+    <configuration name="All in mockito-mps-uma" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-mps-uma" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListTest$checkRemove.Remove_Nothing_EqualDistribution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-mps-uma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mps.deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mps.deque.DoubleLinkedListTest" />
+      <option name="MAIN_CLASS_NAME" value="org.mps.deque.DoubleLinkedListTest$checkRemove" />
+      <option name="METHOD_NAME" value="Remove_Nothing_EqualDistribution" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListTest$checkSort.Sort_DisorderElement_RightOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-mps-uma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mps.deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mps.deque.DoubleLinkedListTest" />
+      <option name="MAIN_CLASS_NAME" value="org.mps.deque.DoubleLinkedListTest$checkSort" />
+      <option name="METHOD_NAME" value="Sort_DisorderElement_RightOperation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListTest$checkSort.Sort_DisorderElements_OrderElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-mps-uma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mps.deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mps.deque.DoubleLinkedListTest" />
+      <option name="MAIN_CLASS_NAME" value="org.mps.deque.DoubleLinkedListTest$checkSort" />
+      <option name="METHOD_NAME" value="Sort_DisorderElements_OrderElements" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListTest$checkSort.Sort_WithoutElement_RightOperation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito-mps-uma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mps.deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mps.deque.DoubleLinkedListTest" />
+      <option name="MAIN_CLASS_NAME" value="org.mps.deque.DoubleLinkedListTest$checkSort" />
+      <option name="METHOD_NAME" value="Sort_WithoutElement_RightOperation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in mockito-mps-uma" />
+        <item itemvalue="JUnit.DoubleLinkedListTest$checkRemove.Remove_Nothing_EqualDistribution" />
+        <item itemvalue="JUnit.DoubleLinkedListTest$checkSort.Sort_WithoutElement_RightOperation" />
+        <item itemvalue="JUnit.DoubleLinkedListTest$checkSort.Sort_DisorderElement_RightOperation" />
+        <item itemvalue="JUnit.DoubleLinkedListTest$checkSort.Sort_DisorderElements_OrderElements" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,8 +153,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711994146235</updated>
-      <workItem from="1711994147702" duration="3000" />
+      <workItem from="1711994147702" duration="19510000" />
+      <workItem from="1712132284297" duration="1408000" />
+      <workItem from="1712133743799" duration="9521000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practica2$All_in_mockito_mps_uma.ic" NAME="All in mockito-mps-uma Coverage Results" MODIFIED="1712157726580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Practica2$NodeLinkedTest.ic" NAME="NodeLinkedTest Coverage Results" MODIFIED="1712092058932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.mps.deque.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Practica2$DoubleLinkedListTest.ic" NAME="DoubleLinkedListTest Coverage Results" MODIFIED="1712092076175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.mps.deque.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Practica2$DoubleLinkedListTest_checkAppend_Append_WithFirstNode_FirstTAndLastT.ic" NAME="DoubleLinkedListTest$checkAppend.Append_WithFirstNode_FirstTAndLastT Coverage Results" MODIFIED="1712091300738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.mps.deque.*</FILTER>
+    </SUITE>
   </component>
 </project>
